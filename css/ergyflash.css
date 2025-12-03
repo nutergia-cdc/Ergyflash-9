@@ -38,6 +38,13 @@
 .cap {text-transform: uppercase;}
 
 
+
+
+.justify {
+    text-align: justify;
+}
+
+
 .edito {
         
     border: solid 5px #fff;
@@ -173,6 +180,12 @@ color: #000; }
         color:#95c11f;
 }
 
+.env h2{
+        
+   
+        color:#95c11f;
+}
+
 
 .titreenv {
         
@@ -199,6 +212,10 @@ titreenv a:active {
     color: #000;
     font-weight: 200;
 }
+
+.h2env {
+color:  #95c11f;
+font : bolder;}
 
 
 .envplein h1{
@@ -294,7 +311,8 @@ text-transform: uppercase; }
     font-weight: 200;
 }
 
-.tableau {margin-bottom: 20px;}
+.tableau {margin-bottom: 20px;
+}
 
 
 
